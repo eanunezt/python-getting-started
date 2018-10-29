@@ -1,3 +1,5 @@
+[ ![Codeship Status for eanunezt/python-getting-started](https://app.codeship.com/projects/4b43ff20-bdbb-0136-6b21-3ec1ec44c0f5/status?branch=master)](https://app.codeship.com/projects/312929)
+
 # Python: Getting Started
 
 A barebones Django app, which can easily be deployed to Heroku.
